@@ -1,34 +1,32 @@
 # Mintbase Grant Proposal
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines. Blockquote sections starting with a `>` (such as this one) can be removed.
->
-> See the [Grants Program Process](https://github.com/Mintbase/Grants-Program/#pencil-process) on how to submit a proposal.
-
-- **Project Name:** Name of your project (e.g. DuoSwap Module)
-- **Team Name:** Legal name of your team (e.g. Duo)
-- **Payment Address:** A NEAR account to where funds can be transfered (e.g. myproject.near)
-- **[Level](../README.md#level_slider-levels):** 1, 2 or 3
-
-> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
+- **Project Name:** 2SkyLab's NFT utility tools app
+- **Team Name:** 2SkyLab
+- **Payment Address:** 2skylabfund.near
+- **[Level](../README.md#level_slider-levels):** 2
 
 ## Project Overview :page_facing_up:
 
-If this application is in response to an RFP, please indicate this on the first line of this section.
-
-If this is an application for a follow-up grant (the continuation of an earlier, successful Mintbase grant), please provide name and/or pull request of said grant on the first line of this section.
-
 ### Overview
 
-Please provide the following:
-
-- If the name of your project is not descriptive, a tag line (one sentence summary).
-- A brief description of your project.
-- An indication of how your project relates to / integrates into the Mintbase / NEAR ecosystem.
-- An indication of why your team is interested in creating this project.
+- 2SkyLab brings together innovative technology with creative works, delivering products and experiences which are not only sensual, but also functional
+- This particular project focuses on developing NFT utility tools which can be used by other Mintbase stores as an effort to answer one simple question - "Why would someone own an NFT as opposed to right clikc saving it's content?"
+- Our project aims to build on top of the existing store functions, creating more functions in the form of tools, designed to evolve the concept of NFT utility
+- We are currently at a pivotal point in evolution of the digital environment, such times don't come accross all too often, the last significant era was the dot com boom. Today we are presented with the opportunity to shape this environment in the way that we believe would help bring the tech to the masses, it is at a very young stage and we acknowledge the hurdles that need to be overcome in order to make this happen. Our team is well prepared and has the necessary mindset to innovate this space towards the right direction, hence we are more than happy ot take on this opportunity and put in the needed effort.
 
 ### Project Details
 
-We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
+- Brief overview of the means we will undertake to carry out 1. Mintbase intergration 2. Auto royalty tool 3. Fixed rate NFT tool -
+  
+1. Mintbase Integration 
+Connect the mintbase sdk as well as other necessary JavaScript libraries.
+The final result will be a progressive user interface to include the NEAR wallet login feature so users can authenticate for purchases.
+
+2. Royalties 
+This tool can be built into a single react application with 2/3 pages. Also a multi-file smart contract to handle preminting and reissuing of NFT royalties. This application can be designed to run as a standalone app for adoption on other stores.
+
+3. Fixed rate NFT
+For this scenario we would build an oracle contract to manage the prices. Also to maintain fixed-rate we would employ the use of an automated market maker which will run on the blockchain and update your rates. If this needs to be adopted for another program the functions of the contract set would be added to the program in question. The final result should be an open source contract set that can be tailored and redeployed to suit the program in question.
 
 - Mockups/designs of any UI components
 - Data models / API specifications of the core functionality
@@ -40,38 +38,37 @@ We expect the teams to already have a solid idea about your project's expected f
 
 ### Ecosystem Fit
 
-Help us locate your project in the Mintbase landscape and what problems it tries to solve by answering each of these questions:
-
-- Where and how does your project fit into the ecosystem?
-- Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-- What need(s) does your project meet?
-- Are there any other projects similar to yours in the Mintbase / NEAR ecosystem?
-  - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
+- We position ourselves as an organization focusing on 2 areas, 1 being NFT utility tool developers, and 2 being a fine arts curators. Our 2nd focal point is used to demonstrate our works in the 1st focal point.
+- Fellow mintbase stores, established businesses in Hong Kong seeking to adapt web3 technology, art collectors, individuals with no knowledge in the web3 space.
+- NFT utility developement. This is a crucial point in demonstrating to people and businesses, how NFT technology can be used in ways to benefit b2b and b2c business models. The current state of NFT has people believing in nothing more than speculative investments, we want to change that to demonstrate that NFTs are actually tools that can be fit to various economic environments.
+- Various projects are releasing phygital NFTs, various projects are developing tools to enhance the mintbase store experience, however I haven't found any projects that are focusing specifically on developing NFT utility tools and showcasing their use through their phygital/ digital NFTs.
+  - Our project is different because the main goal of our NFT utility tools are directed not only to other Mintbase stores but also to the general public as a way to showcase the ways in which we can begin using NFT technology in traditional business practices.
 
 ## Team :busts_in_silhouette:
 
 ### Team members
 
-- Name of team leader
-- Names of team members
+- Konstantin Pozdnyaev and Vlada Davidovic
+- Yukie Chan, Lois Lai, Didia Dev
 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. john@duo.com)
-- **Website:**
+- **Contact Name:** Konstantin Pozdnyaev
+- **Contact Email:** VK@2skylab.com
+- **Website:** https://www.2skylab.com/
 
 ### Legal Structure
 
-- **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
-- **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
+- **Registered Address:** NA
+- **Registered Legal Entity:** NA
 
 ### Team's experience
 
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
-
-If anyone on your team has applied for a grant at the Web3 Foundation previously, please list the name of the project and legal entity here.
+- Konstantin Pozdnyaev: Has the neccessary expertise in the design, arts curation, project management and general operations. Previously incorporated, scaled and sold a company by the name GreenWork. Is a founder of a music label named Beatsolow. 
+- Vlada Davidovic: Has the expertise in fine arts, including areas of wine, jewellery and fashion. Holding the position of Asia Developement Manager at a fashion brand Campo Marzio.
+- Yukie Chan: Has the expertise in social media management. Previously worked as secretary for HKFBS (Hong Kong Federation of Business Students).
+- Lois Lai: Public relations, partnerships and marketing manager. If a co founder of a membership club Club Lux, director at a hhigh end magazine Jetsetter and the founder of The Rose Rituals.
+- Didia Dev: Full stack developer, worked for projects as pythonswap, cartoon cat frens, ever cash and more.
 
 ### Team Code Repos
 
@@ -81,23 +78,20 @@ If anyone on your team has applied for a grant at the Web3 Foundation previously
 
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
+- https://t.me/Didiadevportfolio/<Didia Dev>
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- https://www.linkedin.com/in/konstantinpozdnyaev/<Konstantin Pozdnyaev>
+- https://www.linkedin.com/in/vlada-davidovic-47917045/<Vlada Davidovic>
+- https://www.linkedin.com/in/yukie-chan-0803571b6/<Yukie Chan>
+- https://www.linkedin.com/in/lois-lai-06ab73211/<Lois Lai>                                                          
+                                                          
 
 ## Development Status :open_book:
 
-If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
-
-- links to improvement proposals or [RFPs](https://github.com/mintbase/Grants-Program/tree/master/rfp-proposal) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the Mintbase Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
+Project has not commenced developement at this stage. I've been in touch with regards to the tool developement ideas with Mintbase representatives and our first step would be intergrating our mintbase store to our website 2skylab.com. Upon the intergration we will begin developing the tools, for the ask of this grant we are seeking to develop 2 tools which can be used on other mintbase stores. We will have a standalone with a ready UX/UI of these 2 tools, this would be available to holders of specific NFTs sold on our store, otherwise the code is open source and could be implemented by other projects on their own terms. This standalone app will become a work in progress, with time and progress including more of our utility tools we will have developed.
+  
 
 ## Development Roadmap :nut_and_bolt:
 
@@ -123,11 +117,11 @@ For each milestone,
 - **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
 - **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#level_slider-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in Bitcoin, the amount will be calculated according to the exchange rate at the time of payment.
 
-### Milestone 1 Example — Implement Mintbase Modules
+### Milestone 1 - Mintbase Intergration
 
 - **Estimated duration:** 1 month
 - **FTE:**  2
-- **Costs:** 8,000 USD
+- **Costs:** 3000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -142,13 +136,29 @@ For each milestone,
 | 4. | NEAR chain integration | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
 
 
-### Milestone 2 Example — Additional features
+### Milestone 2 - Auto royalties tool launched on our website's intergrated Mintbase app
 
 - **Estimated Duration:** 1 month
-- **FTE:**  1
-- **Costs:** 4,000 USD
+- **FTE:**  3
+- **Costs:** 5000 USD
+  
 
-...
+### Milestone 3 - Fixed rate NFT tool launched on our website's intergrated Mintbase app
+
+
+- **Estimated Duration:** 1 month
+- **FTE:**  3
+- **Costs:** 5000 USD  
+
+
+### Milestone 4 - Tools put together into a standalone app, establish connection between specific NFTs and the UI ready app to allow useage on other stores
+
+
+- **Estimated Duration:** 1 month
+- **FTE:**  3
+- **Costs:** 7000 USD    
+
+
 ## Future Plans
 
 Please include here
