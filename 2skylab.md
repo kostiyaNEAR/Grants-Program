@@ -67,16 +67,10 @@ For this scenario we would build an oracle contract to manage the prices. Also t
 - Konstantin Pozdnyaev: Has the neccessary expertise in the design, arts curation, project management and general operations. Previously incorporated, scaled and sold a company by the name GreenWork. Is a founder of a music label named Beatsolow. 
 - Vlada Davidovic: Has the expertise in fine arts, including areas of wine, jewellery and fashion. Holding the position of Asia Developement Manager at a fashion brand Campo Marzio.
 - Yukie Chan: Has the expertise in social media management. Previously worked as secretary for HKFBS (Hong Kong Federation of Business Students).
-- Lois Lai: Public relations, partnerships and marketing manager. If a co founder of a membership club Club Lux, director at a hhigh end magazine Jetsetter and the founder of The Rose Rituals.
+- Lois Lai: Public relations, partnerships and marketing manager. Is a co founder of a membership club Club Lux, director at a high end magazine Jetsetter and the founder of The Rose Rituals.
 - Didia Dev: Full stack developer, worked for projects as pythonswap, cartoon cat frens, ever cash and more.
 
 ### Team Code Repos
-
-- https://github.com/<your_organisation>
-- https://github.com/<your_organisation>/<project_1>
-- https://github.com/<your_organisation>/<project_2>
-
-Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
 - https://t.me/Didiadevportfolio/<Didia Dev>
 
@@ -113,9 +107,9 @@ For each milestone,
 
 ### Overview
 
-- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-- **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-- **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#level_slider-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in Bitcoin, the amount will be calculated according to the exchange rate at the time of payment.
+- **Total Estimated Duration:** 4 months
+- **Full-Time Equivalent (FTE):** 4
+- **Total Costs:** 35,000
 
 ### Milestone 1 - Mintbase Intergration
 
