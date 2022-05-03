@@ -111,7 +111,7 @@ For each milestone,
 - **Full-Time Equivalent (FTE):** 4
 - **Total Costs:** 35,000
 
-### Milestone 1 - Mintbase Intergration
+### Milestone 1 - Mintbase Integration
 
 - **Estimated duration:** 1 month
 - **FTE:**  2
@@ -130,14 +130,14 @@ For each milestone,
 | 4. | NEAR chain integration | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
 
 
-### Milestone 2 - Auto royalties tool launched on our website's intergrated Mintbase app
+### Milestone 2 - Auto royalties tool launched on our website's integrated Mintbase app
 
 - **Estimated Duration:** 1 month
 - **FTE:**  3
 - **Costs:** 5000 USD
   
 
-### Milestone 3 - Fixed rate NFT tool launched on our website's intergrated Mintbase app
+### Milestone 3 - Fixed rate NFT tool launched on our website's integrated Mintbase app
 
 
 - **Estimated Duration:** 1 month
