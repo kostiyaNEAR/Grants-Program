@@ -36,7 +36,7 @@ The Milestones described below will serve as NFT utility tools available to othe
 - Fellow mintbase stores, established businesses in Hong Kong seeking to adapt web3 technology, art collectors, individuals with no knowledge in the web3 space.
 - NFT utility developement. This is a crucial point in demonstrating to people and businesses, how NFT technology can be used in ways to benefit b2b and b2c business models. The current state of NFT has people believing in nothing more than speculative investments, we want to change that to demonstrate that NFTs are actually tools that can be fit to various economic environments.
 - Various projects are releasing phygital NFTs, various projects are developing tools to enhance the mintbase store experience, however I haven't found any projects that are focusing specifically on developing NFT utility tools and showcasing their use through their phygital/ digital NFTs.
-  - Our project is different because the main goal of our NFT utility tools are directed not only to other Mintbase stores but also to the general public as a way to showcase the ways in which we can begin using NFT technology in traditional business practices.
+  - Our project is different because the main goal of our NFT utility tools are directed not only to other Mintbase stores but also to the general public and established (traditional) businesses as a way to showcase the ways in which we can begin using NFT technology in traditional business practices.
 
 ## Team :busts_in_silhouette:
 
