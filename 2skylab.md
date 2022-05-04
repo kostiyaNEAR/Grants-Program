@@ -11,7 +11,7 @@
 
 - 2SkyLab brings together innovative technology with creative works, delivering products and experiences which are not only sensual, but also functional
 - This particular project focuses on developing NFT utility tools which can be used by other Mintbase stores as an effort to answer one simple question - "Why would someone own an NFT as opposed to right clikc saving it's content?"
-- Our project aims to build on top of the existing store functions, creating more functions in the form of tools, designed to evolve the concept of NFT utility
+- Our project aims to build on top of the existing store functions, creating more functions in the form of tools, designed to evolve the concept of NFT utility.
 - We are currently at a pivotal point in evolution of the digital environment, such times don't come accross all too often, the last significant era was the dot com boom. Today we are presented with the opportunity to shape this environment in the way that we believe would help bring the tech to the masses, it is at a very young stage and we acknowledge the hurdles that need to be overcome in order to make this happen. Our team is well prepared and has the necessary mindset to innovate this space in the right direction, hence we are more than happy ot take on this opportunity and put in the needed effort.
 
 ### Project Details
@@ -28,13 +28,7 @@ This tool can be built into a single react application with 2/3 pages. Also a mu
 3. Fixed rate NFT
 For this scenario we would build an oracle contract to manage the prices. Also to maintain fixed-rate we would employ the use of an automated market maker which will run on the blockchain and update your rates. If this needs to be adopted for another program the functions of the contract set would be added to the program in question. The final result should be an open source contract set that can be tailored and redeployed to suit the program in question.
 
-- Mockups/designs of any UI components
-- Data models / API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
-- What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+The Milestones described below will serve as NFT utility tools available to other mintbase stores, these milestones are not designed to be utilized by NFT buyers but rather to be utilized by NFT minters, they do however encompass benefits to NFT buyers and also serve as an incentive to onboard more businesses to the Mintbase ecosystem.
 
 ### Ecosystem Fit
 
@@ -89,27 +83,13 @@ Project has not commenced developement at this stage. I've been in touch with re
 
 ## Development Roadmap :nut_and_bolt:
 
-This section should break the development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
-
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to Mintbase. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
-
-For each milestone,
-
-- make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
-- include the amount of funding requested _per milestone_.
-- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-- commit to providing Dockerfiles for the delivery of your project.
-- indicate milestone duration as well as number of full-time employees working on each milestone.
-- **Deliverables 0a-0d are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
-
-> :zap: If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
-
 ### Overview
 
 - **Total Estimated Duration:** 4 months
 - **Full-Time Equivalent (FTE):** 4
 - **Total Costs:** 35,000
+- **Notes:** The milestones in relation to developement of app encomopass 20,500 USD, remainder 14,500 encompasses paying 4 months of FT positions for
+1. Social media management/ influencers, 2. Project management/ laison 3. other necessary operations to engage users with our app.
 
 ### Milestone 1 - Mintbase Integration
 
@@ -119,15 +99,11 @@ For each milestone,
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 0a. | License | Apache 2.0 / GPLv3 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Mintbase nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Mintbase module: X | We will create a Mintbase / NEAR module that will... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Mintbase module: Y | We will create a Mintbase / NEAR module that will... |  
-| 3. | Mintbase module: Z | We will create a Mintbase / NEAR module that will... |  
-| 4. | NEAR chain integration | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
+| 0a. | License | Apache 2.0 |
+| 0b. | Documentation | We will document the steps taken to intergrate our mintbase store to our website and our Github page, Describing steps taken to establish connection with the NEAR blockchain to allow wallet logins as well as the implementation of customized UI |
+| 0c. | Article | We will publish the proceess of intergration in simplified terms (geared for our audience) in our news section on 2skylab.com website |
+| 1. | Mintbase module: Intergration of Mintbase app to our website | We will allow users to connect their NEAR wallet to the intergrated mintbase store on our website, this intergration pertains only to the existing 2skylab store, our website will not host the greater landsscape of the Mintbase website as for example, the marketplace/ ability to view other stores. The intergrated mintbase store will generally follow a similar UI and UX existing in the original mintbase store (Both back and frontend), with a few iterations of graphics to match the layout of our website, frontend functionality will remain the same as currently is on original Mintbase store, on the backend we will have added functionality of our tools to our store that are described in the milestones below.) |  
+
 
 
 ### Milestone 2 - Auto royalties tool launched on our website's integrated Mintbase app
@@ -137,12 +113,31 @@ For each milestone,
 - **Costs:** 5000 USD
   
 
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0a. | License | Apache 2.0 |
+| 0b. | Documentation | Documentation will be available on Github, we will create a Github account for 2SkyLab, there you will find all relevant documentations of the tools we are going to develop |
+| 0c. | Testing Guide | Core functions will be covered by unit tests to ensure functionality and robustness. |
+| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
+| 0e. | Article | We will publish the developement in simple terms on our website's news section, the technical documentation of the core functions will be available on our github page.)
+| 1. | Mintbase module: X | We will create a Mintbase / NEAR module that will pre-mint and reissue NFTs on assignment of a specific royalty once a NFT transfer function is triggered by buyer. This will be built into a single react application with 2/3 pages. Also a multi-file smart contract to handle preminting and reissuing of NFT royalties. As this function only concerns backend operations, it will only be designed to work with our intergrated mintbase store at first, upon reaching Milestone 4, this tool will be integrated into a standalone app including the tool from the following Milestone 3 |  
+
+
 ### Milestone 3 - Fixed rate NFT tool launched on our website's integrated Mintbase app
 
 
 - **Estimated Duration:** 1 month
 - **FTE:**  3
 - **Costs:** 5000 USD  
+  
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0a. | License | Apache 2.0 |
+| 0b. | Documentation | Documentation will be available on Github, we will create a Github account for 2SkyLab, there you will find all relevant documentations of the tools we are going to develop |
+| 0c. | Testing Guide | Core functions will be covered by unit tests to ensure functionality and robustness. |
+| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
+| 0e. | Article | We will publish the developement in simple terms on our website's news section, the technical documentation of the core functions will be available on our github page.)
+| 1. | Mintbase module: X | We will create a Mintbase / NEAR module that will entail an oracle contract to manage prices. To maintain fixed-rate we would employ the use of an automated market maker which will run on the blockchain and update selected NFT rates. The final result should be an open source contract set that can be tailored and redeployed to suit the program in question. |
 
 
 ### Milestone 4 - Tools put together into a standalone app, establish connection between specific NFTs and the UI ready app to allow useage on other stores
@@ -152,21 +147,28 @@ For each milestone,
 - **FTE:**  3
 - **Costs:** 7000 USD    
 
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0a. | License | Apache 2.0 |
+| 0b. | Documentation | Documentation will be available on Github, we will create a Github account for 2SkyLab, there you will find all relevant documentations of the tools we are going to develop |
+| 0c. | Testing Guide | Core functions will be covered by unit tests to ensure functionality and robustness. |
+| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
+| 0e. | Article | We will publish the functionality of this module on our githbub account in detailed terms as well as on our website's news section in simplified terms, we will provide documentation describing the proceedure needed to gain access to the standalon app at hand, if other stores want to use the NFT utility tools without our standalone app they may find the opensource code on our Github and implement the utility tools to their own store on their on terms.)
+| 1. | Mintbase module: Standalone App with NFT utility tools available to fellow Mintbase stores | We will build on top the mintbase SDK to establish an NFT API that will allow fellow Mintbase stores utilize our tools described in the previous 2 milestones in a ready to use standalone app with our custom UI elements, this standalone app will be available to holders of a designated NFT purchaseable from our Mintbase store, this NFT will serve as API key to gain access to the ready standalone app. |
 
+  
 ## Future Plans
 
 Please include here
 
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
-
+- Short term, we plan to promote the mintbase marketplace and the utility tools we have developed to attempt to bring in more traffic to the marketplace. We will promote our utility tools to other mintbase stores through our social accounts and personal connections. We plan to host events to showcase our devised NFT utility to the general public, showcasing the benefits of owning our mints (such as auto royalties to first buyer), onboarding new users to NEAR (by helping them set up NEAR wallets) and taking on partenrships with established businesses in Hong Kong, trying to appeal to them by promoting our fixed rate NFT functionality + encouraging them to set up their own Mintbase stores and implement our NFT utility tools as a way to meaningfully engage in the evolution of web3 and blockchain. We are honing in on the 'FOMO', but instead of merely monetizing this aspect, we want to offer a meaningful means for businesses to incorporate NFT and web3 apps to their own business practices, positioning mintbase and our utility tools as the perfect way to jump on board.
+- In the long term, we plan to develop more NFT utility tools and add them to the standalone app we are developing (Milestone 4), prior, we will need to undergo the development of the tools described in the milestones above, taking into consideration all the difficulties encountered in the process. This is something new to our team and we are taking on a learning curve, we don't want to over extend our ambitions but are sincerely willing to position ourselves as key players in developement of NFT utility tools pertaining to the Mintbase/ NEAR ecosystem. Upon completion of Milestone 4 we will begin to draw out further NFT utility tools. We hope that down the line we would be able innovate our standalone app with NFT utility tools towards compatibility not only with other stores on mintbase but also other NFT standards and markeplaces, truly living up to the LABS' part of our company name.
 
 ## Additional Information :heavy_plus_sign:
 
-**How did you hear about the Grants Program?** Web3 Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?** We were introduced to the grants programme by mintbase representative + subsequently we have been closely following Mintbase's progress and have found the announcement through medium.com
 
 Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+- Thus far we have received funding from Mintbase DAO to startup our store, to this date we have released one collection of NFTs, this is a phygital collection featuring works of the infamous rockstar graphic designer Ruby Mazur, we are currently working on releasing the second collection with HK based sketch artist The Ink Trail, furthermore we have artworks ready from a famous HK artist Anna Salenko. We plan to host our second event towards the end of May to showcasse the releases and announce further releases, in this event we want to use some of the profits from ticketing in order to fund NEAR wallets for our attendees. Through our previous release of Ruby Mazur's artwork we have onboarded 2 new users to the NEAR blockchain. We are in the talks with local NFT startups as (Whub) in attempts to devise a collaboration utilizing their Decentraland land. We have also talked with Hang Seng Bank to help them design NFTs, we are currently awaiting their response, ideally we can present the tools we outlined above as an incentive for them to open their own Mintbase store to meaningfully adapt the current web3 trends. We also partnered with a local firm The Rose Rituals on a project called ForkX, which will is a NFT pop up museum in Hong Kong, first event is scheduled for November 2022, details are being worked on as I am writing this grant proposal.
+
