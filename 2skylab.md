@@ -30,6 +30,8 @@ For this scenario we would build an oracle contract to manage the prices. Also t
 
 The Milestones described below will serve as NFT utility tools available to other mintbase stores, these milestones are not designed to be utilized by NFT buyers but rather to be utilized by NFT minters, they do however encompass benefits to NFT buyers and also serve as an incentive to onboard more businesses to the Mintbase ecosystem.
 
+UX/ UI draft wireframe - https://www.figma.com/file/1o363gp50m7fzKTzafWK6g/Untitled?node-id=0%3A1
+
 ### Ecosystem Fit
 
 - We position ourselves as an organization focusing on 2 areas, 1 being NFT utility tool developers, and 2 being a fine arts curators. Our 2nd focal point is generally used to demonstrate our works in the 1st focal point.
