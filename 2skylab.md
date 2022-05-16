@@ -10,9 +10,9 @@
 ### Overview
 
 - 2SkyLab brings together innovative technology with creative works, delivering products and experiences which are not only sensual, but also functional
-- This particular project focuses on developing NFT utility tools which can be used by other Mintbase stores as an effort to answer one simple question - "Why would someone own an NFT as opposed to right clikc saving it's content?"
-- Our project aims to build on top of the existing store functions, creating more functions in the form of tools, designed to evolve the concept of NFT utility.
-- We are currently at a pivotal point in evolution of the digital environment, such times don't come accross all too often, the last significant era was the dot com boom. Today we are presented with the opportunity to shape this environment in the way that we believe would help bring the tech to the masses, it is at a very young stage and we acknowledge the hurdles that need to be overcome in order to make this happen. Our team is well prepared and has the necessary mindset to innovate this space in the right direction, hence we are more than happy ot take on this opportunity and put in the needed effort.
+- This particular project focuses on developing NFT utility tools which can be used by other Mintbase stores as an effort to answer one simple question - "Why would someone own an NFT as opposed to right click saving it's content?"
+- Our project aims to build on top of the existing store functions, creating more functions in the form of tools, these tools will be available to be applied to specified mints on mintbase stores by using a browser extension app, in support of our business model, the standalone app will be available to holders of a specific NFT (Key) minted on our 2skylab mintbase store.
+- We are currently at a pivotal point in evolution of the digital environment, such times don't come accross all too often, the last significant era was the dot com boom. Today we are presented with the opportunity to shape this environment in the way that we believe would help bring the tech to the masses, it is at a very young stage and we acknowledge the hurdles that need to be overcome in order to make this happen. Our team is well prepared and has the necessary mindset/ experience to innovate this space in the right direction, we are determined to take on this challange and put in the needed effort to actualize NFTs with utility.
 
 ### Project Details
 
@@ -21,14 +21,15 @@
 1. Mintbase Integration 
 Connect the mintbase sdk as well as other necessary JavaScript libraries.
 The final result will be a progressive user interface to include the NEAR wallet login feature so users can authenticate for purchases.
+All currently available resources under mintbase.js and mintbase UI will be integrated to our own domain, the only difference will be the BG image of the integrated mintbase pages, we will adapt our existing domain's bg image (renaissance painting with a zoom as you scroll fx). 
 
 2. Royalties 
-This tool can be built into a single react application with 2/3 pages. Also a multi-file smart contract to handle preminting and reissuing of NFT royalties. This application can be designed to run as a standalone app for adoption on other stores.
+This tool will be built into a single react application with 2/3 pages. Also a multi-file smart contract to handle preminting and reissuing of NFT royalties to the first buyer of specified NFTs. 
 
 3. Fixed rate NFT
-For this scenario we would build an oracle contract to manage the prices. Also to maintain fixed-rate we would employ the use of an automated market maker which will run on the blockchain and update your rates. If this needs to be adopted for another program the functions of the contract set would be added to the program in question. The final result should be an open source contract set that can be tailored and redeployed to suit the program in question.
+For this scenario we would build an oracle contract to manage the prices. To maintain fixed-rate we would employ the use of an automated market maker which will run on the blockchain and update NFT rates, depicting the price in NEAR. 
 
-The Milestones described below will serve as NFT utility tools available to other mintbase stores, these milestones are not designed to be utilized by NFT buyers but rather to be utilized by NFT minters, they do however encompass benefits to NFT buyers and also serve as an incentive to onboard more businesses to the Mintbase ecosystem.
+The above plans are designed to be utilized by NFT minters on Mintbase.io rather than buyers, they do however encompass benefits to NFT buyers and also serve as an incentive to onboard more businesses to the Mintbase ecosystem.
 
 UX/ UI draft wireframe - https://www.figma.com/file/1o363gp50m7fzKTzafWK6g/Untitled?node-id=0%3A1
 
@@ -37,8 +38,8 @@ UX/ UI draft wireframe - https://www.figma.com/file/1o363gp50m7fzKTzafWK6g/Untit
 - We position ourselves as an organization focusing on 2 areas, 1 being NFT utility tool developers, and 2 being a fine arts curators. Our 2nd focal point is generally used to demonstrate our works in the 1st focal point.
 - Fellow mintbase stores, established businesses in Hong Kong seeking to adapt web3 technology, art collectors, individuals with no knowledge in the web3 space.
 - NFT utility developement. This is a crucial point in demonstrating to people and businesses, how NFT technology can be used in ways to benefit b2b and b2c business models. The current state of NFT has people believing in nothing more than speculative investments, we want to change that to demonstrate that NFTs are actually tools that can be fit to various economic environments.
-- Various projects are releasing phygital NFTs, various projects are developing tools to enhance the mintbase store experience, however I haven't found any projects that are focusing specifically on developing NFT utility tools and showcasing their use through their phygital/ digital NFTs.
-  - Our project is different because the main goal of our NFT utility tools are directed not only to other Mintbase stores but also to the general public and established (traditional) businesses as a way to showcase the ways in which we can begin using NFT technology in traditional business practices.
+- Various projects are releasing phygital NFTs, various projects are developing tools to enhance the mintbase store experience, however I haven't found any projects that are focusing specifically on developing NFT utility tools and showcasing their use through their phygital/ digital NFTs, whilst implementing the mintbase js/ ui to their own domains.
+  - Our project is different because the main goal of our NFT utility tools are directed not only to other Mintbase stores but also to the general public and established (traditional) businesses as a way to showcase the ways in which we can begin using NFT technology in traditional business practices, by doing so we are not only bringing value to the Mintbase ecosystem but are in line with NEAR protocol's aim for mass adoption.
 
 ## Team :busts_in_silhouette:
 
@@ -60,8 +61,8 @@ UX/ UI draft wireframe - https://www.figma.com/file/1o363gp50m7fzKTzafWK6g/Untit
 
 ### Team's experience
 
-- Konstantin Pozdnyaev: Has the neccessary expertise in the design, arts curation, project management and general operations. Previously incorporated, scaled and sold a company by the name GreenWork. Is a founder of a music label named Beatsolow. 
-- Vlada Davidovic: Has the expertise in fine arts, including areas of wine, jewellery and fashion. Holding the position of Asia Developement Manager at a fashion brand Campo Marzio.
+- Konstantin Pozdnyaev: Has the neccessary expertise in the design, arts curation, project management and general operations. Previously incorporated, scaled and sold a company by the name GreenWork. Is a founder of a music label named Beatsolow and is working for a HK based startup developing fintech for high profile investors. 
+- Vlada Davidovic: Has the expertise in fine arts, spanning sectors of wine, jewellery and fashion. Holding the position of Asia Developement Manager at a fashion brand Campo Marzio.
 - Yukie Chan: Has the expertise in social media management. Previously worked as secretary for HKFBS (Hong Kong Federation of Business Students).
 - Lois Lai: Public relations, partnerships and marketing manager. Is a co founder of a membership club Club Lux, director at a high end magazine Jetsetter and the founder of The Rose Rituals.
 - Didia Dev: Full stack developer, worked for projects as pythonswap, cartoon cat frens, ever cash and more.
@@ -80,7 +81,7 @@ UX/ UI draft wireframe - https://www.figma.com/file/1o363gp50m7fzKTzafWK6g/Untit
 
 ## Development Status :open_book:
 
-Project has not commenced developement at this stage. I've been in touch with regards to the tool developement ideas with Mintbase representatives and our first step would be intergrating our mintbase store to our website 2skylab.com. Upon the intergration we will begin developing the tools, for the ask of this grant we are seeking to develop 2 tools which can be used on other mintbase stores. We will have a standalone with a ready UX/UI of these 2 tools, this would be available to holders of specific NFTs sold on our store, otherwise the code is open source and could be implemented by other projects on their own terms. This standalone app will become a work in progress, with time and progress including more of our utility tools we will have developed.
+Project has not commenced developement at this stage. I've been in touch with regards to the tool developement ideas with Mintbase representatives and our first step would be intergrating our mintbase store to our website 2skylab.com. Upon the intergration we will begin developing the tools, for the ask of this grant we are seeking to develop 2 tools which can be used on other mintbase stores through a browser extenstion app. We will have a standalone with a ready UX/UI of these 2 tools, this would be available to holders of specific NFTs sold on our store, otherwise the code is open source and could be implemented by other projects on their own terms. This standalone app will become a work in progress, with time and progress including more of our utility tools we will have developed.
   
 
 ## Development Roadmap :nut_and_bolt:
@@ -89,8 +90,8 @@ Project has not commenced developement at this stage. I've been in touch with re
 
 - **Total Estimated Duration:** 4 months
 - **Full-Time Equivalent (FTE):** 4
-- **Total Costs:** 35,000
-- **Notes:** The milestones in relation to developement of app encomopass 20,500 USD, remainder 14,500 encompasses paying 4 months of FT positions for
+- **Total Costs:** 40,000
+- **Notes:** The milestones in relation to developement of app encomopass 24,000 USD, remainder 16,000 encompasses paying 4 months of FT positions for
 1. Social media management/ influencers, 2. Project management/ laison 3. other necessary operations to engage users with our app.
 
 ### Milestone 1 - Mintbase Integration
@@ -161,16 +162,10 @@ Project has not commenced developement at this stage. I've been in touch with re
   
 ## Future Plans
 
-Please include here
-
 - Short term, we plan to promote the mintbase marketplace and the utility tools we have developed to attempt to bring in more traffic to the marketplace. We will promote our utility tools to other mintbase stores through our social accounts and personal connections. We plan to host events to showcase our devised NFT utility to the general public, showcasing the benefits of owning our mints (such as auto royalties to first buyer), onboarding new users to NEAR (by helping them set up NEAR wallets) and taking on partenrships with established businesses in Hong Kong, trying to appeal to them by promoting our fixed rate NFT functionality + encouraging them to set up their own Mintbase stores and implement our NFT utility tools as a way to meaningfully engage in the evolution of web3 and blockchain. We are honing in on the 'FOMO', but instead of merely monetizing this aspect, we want to offer a meaningful means for businesses to incorporate NFT and web3 apps to their own business practices, positioning mintbase and our utility tools as the perfect way to jump on board.
-- In the long term, we plan to develop more NFT utility tools and add them to the standalone app we are developing (Milestone 4), prior, we will need to undergo the development of the tools described in the milestones above, taking into consideration all the difficulties encountered in the process. This is something new to our team and we are taking on a learning curve, we don't want to over extend our ambitions but are sincerely willing to position ourselves as key players in developement of NFT utility tools pertaining to the Mintbase/ NEAR ecosystem. Upon completion of Milestone 4 we will begin to draw out further NFT utility tools. We hope that down the line we would be able innovate our standalone app with NFT utility tools towards compatibility not only with other stores on mintbase but also other NFT standards and markeplaces, truly living up to the LABS' part of our company name.
+- In the long term, we plan to develop more NFT utility tools and add them to the standalone app we are developing (Milestone 4), prior, we will need to undergo the development of the tools described in the milestones above, taking into consideration all the difficulties encountered in the process. This is something new to our team and we are taking on a learning curve, we don't want to over extend our ambitions but are sincerely willing to position ourselves as key players in developement of NFT utility tools pertaining to the Mintbase/ NEAR ecosystem. Upon completion of Milestone 4 we will begin to draw out further NFT utility tools. We hope that down the line we would be able innovate our standalone app with NFT utility tools towards compatibility not only with other stores on mintbase but also other NFT standards and markeplaces, truly living up to the LAB' part of our company name.
 
 ## Additional Information :heavy_plus_sign:
 
-**How did you hear about the Grants Program?** We were introduced to the grants programme by mintbase representative + subsequently we have been closely following Mintbase's progress and have found the announcement through medium.com
-
-Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
-
-- Thus far we have received funding from Mintbase DAO to startup our store, to this date we have released one collection of NFTs, this is a phygital collection featuring works of the infamous rockstar graphic designer Ruby Mazur, we are currently working on releasing the second collection with HK based sketch artist The Ink Trail, furthermore we have artworks ready from a famous HK artist Anna Salenko. We plan to host our second event towards the end of May to showcasse the releases and announce further releases, in this event we want to use some of the profits from ticketing in order to fund NEAR wallets for our attendees. Through our previous release of Ruby Mazur's artwork we have onboarded 2 new users to the NEAR blockchain. We are in the talks with local NFT startups as (Whub) in attempts to devise a collaboration utilizing their Decentraland land. We have also talked with Hang Seng Bank to help them design NFTs, we are currently awaiting their response, ideally we can present the tools we outlined above as an incentive for them to open their own Mintbase store to meaningfully adapt the current web3 trends. We also partnered with a local firm The Rose Rituals on a project called ForkX, which will is a NFT pop up museum in Hong Kong, first event is scheduled for November 2022, details are being worked on as I am writing this grant proposal.
+- Thus far we have received funding from Mintbase DAO to startup our store, to this date we have released one collection of NFTs, this is a phygital collection featuring works of the infamous rockstar graphic designer Ruby Mazur, we are currently working on releasing the second collection with HK based sketch artist The Ink Trail, furthermore we have artworks ready from a famous HK artist Anna Salenko. We plan to host our second event towards the end of July to showcasse the releases and announce further releases, in this event we want to use some of the profits from ticketing in order to fund NEAR wallets for our attendees. Through our previous release of Ruby Mazur's artwork we have onboarded 2 new users to the NEAR blockchain. We are in the talks with local NFT startups as (Whub) in attempts to devise a collaboration utilizing their Decentraland land. We have also talked with Hang Seng Bank to help them design NFTs, we are currently awaiting their response, ideally we can present the tools we outlined above as an incentive for them to open their own Mintbase store to meaningfully adapt the current web3 trends. We also partnered with a local firm The Rose Rituals on a project called ForkX, which will is a NFT pop up museum in Hong Kong, first event is scheduled for November 2022, details are being worked on as I am writing this grant proposal.
 
