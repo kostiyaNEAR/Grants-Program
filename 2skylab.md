@@ -109,9 +109,9 @@ Project has not commenced developement at this stage. We have been in touch with
 | 1. | module 1 | Contracts for frontend integration |  
 | 2. | module 2 | SDK integration with frontend | 
 
-  
+__________________________________________________________________________________________________________________________________________________________  
 Following Milestones are a breakdown of the components pertaining to our standalone app, they are all part of the same deliverable hence numbered 2.1, 2.2 and so forth.
-
+__________________________________________________________________________________________________________________________________________________________
 
   
 ### Milestone 2.1 - Auto royalties tools (Component of the standalone app)
@@ -167,7 +167,7 @@ Following Milestones are a breakdown of the components pertaining to our standal
 
   
 
-### Milestone 2.4 - Integration of the app with API to create exclusive access to our service, available to holders of specified NFT.
+### Milestone 2.4 - Integration of the app with API to create exclusive access to our service, available to holders of specified NFT
 
 - **Estimated Duration:** 0.5 month
 - **FTE:**  3
