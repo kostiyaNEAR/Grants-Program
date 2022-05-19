@@ -92,7 +92,7 @@ Project has not commenced developement at this stage. We have been in touch with
 - **Full-Time Equivalent (FTE):** 4
 - **Total Costs:** 40,000
 - **Notes:** The milestones in relation to developement of app encomopass 24,000 USD, remainder 16,000 encompasses paying 4 months of FT positions for
-1. Social media management/ influencers, 2. Project management/ laison 3. other necessary operations to engage users with our app and attract external investments in order to keep building tools for our broser extension app.
+1. Social media management/ influencers, 2. Project management/ laison 3. other necessary operations to engage users with our app and attract external investments in order to keep building tools for our browser extension app.
 
   
 ### Milestone 1 - Mintbase Integration
@@ -153,7 +153,7 @@ Following Milestones are a breakdown of the components pertaining to our standal
 
 - **Estimated Duration:** 1 month
 - **FTE:**  3
-- **Costs:** 7000 USD    
+- **Costs:** 6000 USD    
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -171,7 +171,7 @@ Following Milestones are a breakdown of the components pertaining to our standal
 
 - **Estimated Duration:** 0.5 month
 - **FTE:**  3
-- **Costs:** 7000 USD    
+- **Costs:** 1000 USD    
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
