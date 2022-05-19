@@ -61,7 +61,7 @@ UX/ UI draft wireframe - https://www.figma.com/file/1o363gp50m7fzKTzafWK6g/Untit
 
 ### Team's experience
 
-- Konstantin Pozdnyaev: Has the neccessary expertise in graphic and communications design, arts curation, project management and general operations. Previously incorporated, scaled and sold a company by the name GreenWork. Is a founder of a music label named Beatsolow and is working for a HK based startup developing fintech for high profile investors. 
+- Konstantin Pozdnyaev: Has the neccessary expertise in graphic and communications design, arts curation, project management and general operations. Previously incorporated, scaled and sold a company by the name GreenWork. Is a founder of a music label named Beatsolow and is working for a HK based startup developing AI centric fintech for high profile investors. 
 - Vlada Davidovic: Has the expertise in fine arts, spanning sectors of wine, jewellery and fashion. Holding the position of Asia Developement Manager at a fashion brand Campo Marzio.
 - Yukie Chan: Has the expertise in social media management. Previously worked as secretary for HKFBS (Hong Kong Federation of Business Students).
 - Lois Lai: Public relations, partnerships and marketing manager. Is a co founder of a membership club - Club Lux, director at a high end magazine Jetsetter and the founder of The Rose Rituals.
