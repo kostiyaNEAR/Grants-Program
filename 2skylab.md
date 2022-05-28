@@ -65,11 +65,11 @@ UX/ UI draft wireframe - https://www.figma.com/file/1o363gp50m7fzKTzafWK6g/Untit
 - Vlada Davidovic: Has the expertise in fine arts, spanning sectors of wine, jewellery and fashion. Holding the position of Asia Developement Manager at a fashion brand Campo Marzio.
 - Yukie Chan: Has the expertise in social media management. Previously worked as secretary for HKFBS (Hong Kong Federation of Business Students).
 - Lois Lai: Public relations, partnerships and marketing manager. Is a co founder of a membership club - Club Lux, director at a high end magazine Jetsetter and the founder of The Rose Rituals.
-- Didia Dev: Full stack developer, worked for projects as pythonswap, cartoon cat frens, ever cash and more.
+- Eric Chan: Full stack developer, worked for projects as dafeis.io, notable.co, hodlgang.io and more. Experienced with analysis tools, defi, NFT marketplaces and dapp development. 
 
 ### Team Code Repos
 
-- https://t.me/Didiadevportfolio/<Didia Dev>
+- https://ericchan.netlify.app/# <Eric Chan>
 
 ### Team LinkedIn Profiles (if available)
 
@@ -81,7 +81,7 @@ UX/ UI draft wireframe - https://www.figma.com/file/1o363gp50m7fzKTzafWK6g/Untit
 
 ## Development Status :open_book:
 
-Project has not commenced developement at this stage. We have been in touch with regards to the tool developement ideas with Mintbase representatives and our first step would be intergrating the mintbase store to our website 2skylab.com. Upon the intergration we will begin developing the tools and embody them into a single browser extension app, for the ask of this grant we are seeking to develop 2 tools which can be used on other mintbase stores through a browser extenstion app. This would be available to holders of specific NFTs sold on our store, otherwise the code is open source and could be implemented by other projects on their own terms. This standalone app will become a work in progress, with time and progress including more of our utility tools we will have developed.
+Project has not commenced developement at this stage. We have UI wireframes and tool functions architecture.
   
 
 ## Development Roadmap :nut_and_bolt:
@@ -104,8 +104,8 @@ Project has not commenced developement at this stage. We have been in touch with
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | Apache 2.0 |
-| 0b. | Documentation | We will document the steps taken to intergrate our mintbase store on our website and our Github page, describing steps taken to establish connection with the NEAR blockchain to allow wallet logins as well as the implementation of available components of the Mintbase SDK |
-| 0e. | Article | We will publish an announcement on twitter and an article on our own website, we will provide a pdf describing the technical documentation of the core functions (Deployed contracts and integration with frontend + SDK integration with frontend), this will also be available on our github page.
+| 0b. | Documentation | We will be documenting our analysis of the Mintbase SDK and noting any encountered difficulties in the integration process through Github|
+| 0e. | Article | We will publish an announcement on our socials and an article on our website, these are rather less technical depictions of our work, but will include links to the technical documentation on Github.
 | 1. | module 1 | Contracts for frontend integration |  
 | 2. | module 2 | SDK integration with frontend | 
 
@@ -124,11 +124,10 @@ ________________________________________________________________________________
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | Apache 2.0 |
-| 0b. | Documentation | Documentation will be available on Github, we will create a Github account for 2SkyLab, for this milestone, we will be describing the proccess of front end building proceedure, topics will include the specifications of a react application + a multi-file smart contract to handle preminting and reissuing of NFT royalties. |
+| 0b. | Documentation | Will be available on Github, we will describe the architecture of the tool's functionality and document any major issues/ limitations encountered during testing |
 | 0c. | Testing Guide | Core functions will be covered by unit tests to ensure functionality and robustness. |
 | 0d. | Docker | We will provide a Dockerfile that can be used to test the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an announcement on our twitter and our own website, we will provide a pdf describing the technical documentation of the building proceedure along with the details of code pertaining to our react app and multi file smart contract. |
-| 1. | module 1 | React application |  
+| 0e. | Article | We will publish an announcement on our socials and our website, this article will describe what the tool does, how it makes an impact as well as a guide to using it. 
 | 2. | module 2 | Multi- file smart contract to premint and reissue NFT royalties | 
   
 
@@ -158,7 +157,7 @@ ________________________________________________________________________________
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | Apache 2.0 |
-| 0b. | Documentation | Documentation will be available on Github, we will create a Github account for 2SkyLab, there you will find all relevant documentations depicting components of the UX/ UI, the core components of functionality (utility tools) of the standalone app is described in previous milestones (2.1, 2.2) |
+| 0b. | Documentation | Documentation will be available on Github depicting components of the UX/ UI, core components of functionality (utility tools).
 | 0c. | Testing Guide | Core functions will be covered by unit tests to ensure functionality and robustness. |
 | 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
 | 0e. | Article | We will publish the functionality of this deliverable on our githbub account in detailed terms as well as on our website's news section in simplified terms, the technical description on our Github account will describe the architecture of our app (browser extension, UI components, embodied utility tools). |
